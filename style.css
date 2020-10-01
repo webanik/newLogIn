@@ -1,0 +1,39 @@
+body {
+  background: #fff;
+  font-family: sans-serif;
+}
+
+.wrapper {
+  width: 30%;
+  margin: auto;
+  background: #727272;
+  padding: 24px 15px;
+  margin-top: 191px;
+  border-radius: 0 79px 0 67px;
+}
+.wrapper h3 {
+  text-align: center;
+  color: #fff;
+  margin-left: 18px;
+}
+input {
+  display: block;
+  overflow: hidden;
+  width: 171px;
+  margin-left: 118px;
+  margin-top: 14px;
+  padding: 9px 9px;
+  text-align: center;
+  background-color: #979797;
+  border: none;
+}
+.btn {
+  width: 27%;
+  margin-top: 20px;
+  margin-left: 154px;
+  padding: 4px 7px;
+  border: none;
+  border-radius: 17px;
+  background: #fff;
+  color: black;
+}
